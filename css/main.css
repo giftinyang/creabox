@@ -1,0 +1,57 @@
+.row-one{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.call-to-action-btn{
+    border-radius: 50px;
+    color: white;
+    background-color: orange;
+    border: none;
+}
+
+.btn-btn-1{
+    color: blue;
+    border: none;
+}
+
+.btn-btn-2{
+border: 1px solid red;
+color: red;
+border-radius: 50px;
+
+}
+
+.row-two{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.container-2{
+    background-color: whitesmoke;
+    padding-bottom: 60px;
+}
+
+.img-center {
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    -webkit-box-shadow: 1px 6px 13px -6px rgba(0,0,0,0.75);
+-moz-box-shadow: 1px 6px 13px -6px rgba(0,0,0,0.75);
+box-shadow: 1px 6px 13px -6px rgba(0,0,0,0.75);
+}
+
+.my-btn{
+    border-radius: 50px !important;
+    color: white;
+    background-color: orange;
+}
+
+.section4{
+    background-color: whitesmoke;
+}
